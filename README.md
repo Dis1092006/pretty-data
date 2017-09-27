@@ -3,7 +3,7 @@
 nodejs plugin to **pretty-print** or **minify**
 text in **XML**, **JSON**, **CSS**  and  **SQL** formats.
 
-**Version** - 0.40.0
+**Version** - 0.40.1
 
 **Copyright** (c) 2012 Vadim Kiryukhin ( vkiryukhin @ gmail.com )
 
@@ -16,6 +16,9 @@ the MIT and GPL licenses:
 
 [http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html)
 
+## About this fork
+This repository is a fork of [this repo](https://github.com/vkiryukhin/pretty-data). I decided to fork that because I needed use some additional features.
+ 
 ##Description
 
 * `pd.xml(data )` - pretty print XML; 

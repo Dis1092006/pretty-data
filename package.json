@@ -1,7 +1,7 @@
 {
-  "name": "pretty-data",
-  "version": "0.40.0",
-  "author": "Vadim Kiryukhin <vkiryukhin@gmail.com>",
+  "name": "node-pretty-data",
+  "version": "0.40.1",
+  "author": "Vadim Kiryukhin <vkiryukhin@gmail.com>, Dmitry Samsonov <dis1092006@gmail.com>",
   "description": "plugin to pretty-print or minify XML, JSON, CSS and SQL files",
   "contributors": [ 
     {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/vkiryukhin/pretty-data.git"
+    "url": "https://github.com/Dis1092006/pretty-data.git"
   },
   "main":"./pretty-data",
   "keywords": [
